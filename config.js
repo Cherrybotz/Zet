@@ -16,19 +16,19 @@ global.xteam = 'apivproject'
 global.lolhuman = 'yourkey'
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = '© Zets'
-global.packname = '© Zetspublic'
-global.gc = 'https://bit.ly/3KMlmv2'
-global.linkyt = 'https://youtube.com/channel/UC9Si3U0o9dGS9MDfJR5iF6Q'
-global.linkgc = 'https://chat.whatsapp.com/DwP6uHYBWBc6TBSsNJrzwN'
+global.owner = ['94726083178']
+global.premium = ['94726083178']
+global.ownername = 'Lakshan'
+global.botname = '© Stawberry'
+global.packname = '© Lakshanpublic'
+global.gc = 'https://bit.ly/'
+global.linkyt = 'https://youtube.com/channel/'
+global.linkgc = 'https://chat.whatsapp.com/'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⌕'
+global.sp = '🍓'
 global.mess = {
     success: 'Berhasil',
     admin: 'Fitur Khusus Admin Group!',
@@ -37,7 +37,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Tunggu sebentar, sedang di proses',
+    wait: 'Honey! Please wait a minute...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
