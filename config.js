@@ -18,12 +18,12 @@ global.lolhuman = 'yourkey'
 // Other
 global.owner = ['94726083178']
 global.premium = ['94726083178']
-global.ownername = 'Lakshan'
-global.botname = '© Stawberry'
+global.ownername = 'tzuyu.us'
+global.botname = '© Dan-oh!'
 global.packname = '© Lakshanpublic'
 global.gc = 'https://bit.ly/'
 global.linkyt = 'https://youtube.com/channel/'
-global.linkgc = 'https://chat.whatsapp.com/'
+global.linkgc = 'https://chat.whatsapp.com/FKB3BjBGMYjBJZfJXjEAOa'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
 global.sessionName = 'session'
